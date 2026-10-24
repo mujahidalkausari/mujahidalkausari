@@ -21,7 +21,7 @@ over the API, there are no servers to manage, and results export to JSON, CSV or
 |---|---|
 | [Vinted Products Crawler](https://apify.com/alkausari_mujahid/vinted-products-crawler) | Listings from all 27 Vinted country sites: price, brand, size, condition, photos and seller. [Developer docs](https://github.com/mujahidalkausari/vinted-scraper) |
 | [Vinted Deal Detector](https://apify.com/alkausari_mujahid/vinted-deal-detector) | Alerts the moment an item appears below its real market price |
-| [AutoScout24 Scraper](https://apify.com/alkausari_mujahid/autoscout24-scraper) | Car listings from every AutoScout24 country site: price, price rating, specs, photos and dealer |
+| [AutoScout24 Scraper](https://apify.com/alkausari_mujahid/autoscout24-scraper) | Car listings from every AutoScout24 country site: price, price rating, specs, photos and dealer. [Developer docs](https://github.com/mujahidalkausari/autoscout24-listings-scraper) |
 | [Vidaxl Products Listings Scraper](https://apify.com/alkausari_mujahid/vidaxl-products-listings-scraper) | vidaXL product catalogs with full specs, images, live stock and every variant |
 
 ### Reviews and leads
