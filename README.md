@@ -43,7 +43,7 @@ over the API, there are no servers to manage, and results export to JSON, CSV or
 |---|---|
 | [Freelancermap Project Scraper](https://apify.com/alkausari_mujahid/freelancermap-project-scraper) | German freelance IT projects from freelancermap.de, with skills, start date and full description |
 | [Freelancermap Profile Scraper](https://apify.com/alkausari_mujahid/freelancermap-profile-scraper) | Freelancer profiles from freelancermap.de, with rates, skills and work history |
-| [Seasonal Jobs & Worker Housing Scraper](https://apify.com/alkausari_mujahid/dol-seasonal-jobs-scraper) | US H-2A and H-2B job orders, including the housing details buried in their PDF attachments |
+| [Seasonal Jobs & Worker Housing Scraper](https://apify.com/alkausari_mujahid/dol-seasonal-jobs-scraper) | US H-2A and H-2B job orders, including the housing details buried in their PDF attachments. [Developer docs](https://github.com/mujahidalkausari/seasonal-jobs-scraper) |
 
 ### UK care sector
 
