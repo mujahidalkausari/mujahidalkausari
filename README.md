@@ -1,8 +1,8 @@
 # Alkausari Mujahid
 
-I build web scrapers and data tools on [Apify](https://apify.com/alkausari_mujahid). Eighteen
-of them are public on the Apify Store. You run them from the browser or call them over the
-API, there are no servers to manage, and results export to JSON, CSV or Excel.
+I build web scrapers and data tools, all public on the
+[Apify Store](https://apify.com/alkausari_mujahid). You run them from the browser or call them
+over the API, there are no servers to manage, and results export to JSON, CSV or Excel.
 
 **Need a scraper that isn't here?** I build custom ones: [alkausarimujahid@gmail.com](mailto:alkausarimujahid@gmail.com)
 
