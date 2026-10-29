@@ -37,6 +37,12 @@ over the API, there are no servers to manage, and results export to JSON, CSV or
 |---|---|
 | [StreetEasy Scraper](https://apify.com/alkausari_mujahid/streeteasy-scraper) | Every NYC and northern New Jersey rental and sales listing, past the 100-page search limit |
 
+### Business acquisitions
+
+| Scraper | What it gets you |
+|---|---|
+| [BizBuySell Scraper](https://apify.com/alkausari_mujahid/bizbuysell-scraper) | Businesses for sale and franchises with asking price, cash flow, price multiples and broker contacts, past BizBuySell's 10,000-result limit. [Developer docs](https://github.com/mujahidalkausari/bizbuysell-listings-scraper) |
+
 ### Jobs and freelancing
 
 | Scraper | What it gets you |
